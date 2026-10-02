@@ -1,4 +1,4 @@
-## Hi, I'm Michael 👋
+## Hi, I'm Michael
 
 Computer Science graduate (Massey University) who likes working close to the metal: game engines, voxel rendering, multi-threading, and microcontrollers. Mostly C++ and C.
 
